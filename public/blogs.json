@@ -1,0 +1,53 @@
+[
+    {
+      "ID": 101,
+      "Cover_Img": "https://cdn.shortpixel.ai/spai/q_glossy+w_742+to_auto+ret_img/www.webhostingsecretrevealed.net/wp-content/uploads/2014/12/pixabay.jpg",
+      "Title": "The Art ofi Mimmalism",
+      "Author": "Jane Doe",
+      "Author_Img": "https://i.ibb.co/4Jnm8b3/pexels-whynugrohou-3119215.jpg",
+      "Posted_Date": "2024-08-01",
+      "Reading_Time": "5",
+      "Hashtags": ["Minimalism", "Design", "Lifestyle"]
+    },
+    {
+      "ID": 102,
+      "Cover_Img": "https://cdn.shortpixel.ai/spai/q_glossy+w_742+to_auto+ret_img/www.webhostingsecretrevealed.net/wp-content/uploads/2014/12/unsplash.jpg",
+      "Title": "Exploring the Cosmos",
+      "Author": "John Smith",
+      "Author_Img": "https://i.ibb.co/nLP4GZ0/pexels-jessica-pope-291935402-19793978.jpg",
+      "Posted_Date": "2024-08-05",
+      "Reading_Time": "8",
+      "Hashtags": ["Space", "Astronomy", "Science"]
+    },
+    {
+      "ID": 103,
+      "Cover_Img": "https://cdn.shortpixel.ai/spai/q_glossy+w_742+to_auto+ret_img/www.webhostingsecretrevealed.net/wp-content/uploads/2014/12/compfight.jpg",
+      "Title": "Mastering Python for Data Science",
+      "Author": "Emily White",
+      "Author_Img": "https://i.ibb.co/1dzSQj4/pexels-marcioskull-3579181.jpg",
+      "Posted_Date": "2024-08-10",
+      "Reading_Time": "12",
+      "Hashtags": ["Python", "DataScience", "Programming"]
+    },
+    {
+      "ID": 104,
+      "Cover_Img": "https://cdn.shortpixel.ai/spai/q_glossy+w_742+to_auto+ret_img/www.webhostingsecretrevealed.net/wp-content/uploads/2014/12/publicdomain.jpg",
+      "Title": "A Journey Through Time",
+      "Author": "Michael Brown",
+      "Author_Img": "https://i.ibb.co/HhFLRYr/pexels-hudsonmarquesfotografia-3328072.jpg",
+      "Posted_Date": "2024-08-15",
+      "Reading_Time": "6",
+      "Hashtags": ["History", "TimeTravel", "Adventure"]
+    },
+    {
+      "ID": 105,
+      "Cover_Img": "https://cdn.shortpixel.ai/spai/q_glossy+w_742+to_auto+ret_img/www.webhostingsecretrevealed.net/wp-content/uploads/2014/12/pikwizard.jpg",
+      "Title": "The Future of AI in Healthcare",
+      "Author": "Sarah Green",
+      "Author_Img": "https://i.ibb.co/HdbG2kB/pexels-lany-12801795.jpg",
+      "Posted_Date": "2024-08-20",
+      "Reading_Time": "10",
+      "Hashtags": ["AI", "Healthcare", "Technology"]
+    }
+  ]
+  
